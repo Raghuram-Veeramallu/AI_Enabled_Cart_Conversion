@@ -1,0 +1,124 @@
+{
+    "products": {
+        "214512416" : {
+            "productName": "Dell 2.0 Speaker System - AE215",
+            "productCategory": "Speaker/Headphones",
+            "productPrice": 2500,
+            "productDescription": "USB powered \n 2 x speaker 2.5 Watt - 80 - 20000 Hz \n Integrated Amplifier \n 80 - 20000 Hz Frequency Response",
+            "productImageUrl": "raghuram.vhs",
+            "productAdded": 260399,
+            "ProductQuatity": 32,
+            "ratings": 4,
+            "favourite": false,
+            "productSeller": "Dell"
+        },
+        "214512152" : {
+            "productName": "Dell Pro Stereo Headset - UC350",
+            "productCategory": "Speaker/Headphones",
+            "productPrice": 1250,
+            "productDescription": "Headset - wired - USB, 3.5 mm jack \n Frequency Response 150 - 7000 Hz - Sensitivity 93.6 dB \n 32 Ohm Impedence",
+            "productImageUrl": "raghuram.vhs",
+            "productAdded": 120399,
+            "ProductQuatity": 42,
+            "ratings": 2,
+            "favourite": false,
+            "productSeller": "Dell"
+        },
+        "214511375" : {
+            "productName": "Dell Portable Thunderbolt™ 3 SSD",
+            "productCategory": "Hard Drives",
+            "productPrice": 30000,
+            "productDescription": "Solid state drive - external (portable) \n Thunderbolt 3 - USB-C \n 500GB Capacity",
+            "productImageUrl": "raghuram.vhs",
+            "productAdded": 180898,
+            "ProductQuatity": 19,
+            "ratings": 5,
+            "favourite": false,
+            "productSeller": "Dell"
+        },
+        "214511092" : {
+            "productName": "Dell Portable SSD, USB-C 250GB",
+            "productCategory": "Hard Drives",
+            "productPrice": 19000,
+            "productDescription": "Solid state drive - external (portable) \n USB 3.1 Gen 2 \n USB bus \n 250GB Capacity",
+            "productImageUrl": "raghuram.vhs",
+            "productAdded": 110499,
+            "ProductQuatity": 23,
+            "ratings": 4,
+            "favourite": false,
+            "productSeller": "Dell"
+        },
+        "214510854" : {
+            "productName": "Kit-Dell Premier Wireless Mouse",
+            "productCategory": "Keyboards/Mouse",
+            "productPrice": 2200,
+            "productDescription": "Mouse - ergonomic \n Laser Motion Detection Technology \n 1600dpi Movememnt Resolution",
+            "productImageUrl": "raghuram.vhs",
+            "productAdded": 111298,
+            "ProductQuatity": 53,
+            "ratings": 4,
+            "favourite": false,
+            "productSeller": "Dell"
+        },
+        "214508942" : {
+            "productName": "Inspiron 24 3480",
+            "productCategory": "Desktop",
+            "productPrice": 36989.99,
+            "productDescription": "8th Generation Intel® Core™ i3-8145U Processor (4MB Cache, up to 3.9 GHz) \n 1TB 5400 rpm 2.5 SATA Hard Drive \n 4GB, 4Gx1, DDR4, 2666MHz",
+            "productImageUrl": "",
+            "productAdded": 12011998,
+            "productQuatity": 12,
+            "ratings": 4.5,
+            "favourite": false,
+            "productSeller": "Dell"
+        },
+        "214509013" : {
+            "productName": "Inspiron 24 3477",
+            "productCategory": "Desktop",
+            "productPrice": 36990.00,
+            "productDescription": "7th Generation Intel® Core™ i3-7130U Processor (3M Cache, 2.70 GHz) \n 1TB 5400RPM SATA \n 4GB, DDR4, 2400MHz",
+            "productImageUrl": "",
+            "productAdded": 19041999,
+            "productQuatity": 15,
+            "ratings": 4,
+            "favourite": false,
+            "productSeller": "Dell"
+        },
+        "214509133" : {
+            "productName": "Inspiron 13 5000",
+            "productCategory": "Laptop",
+            "productPrice": 57689.99,
+            "productDescription": "33.02cm (13) laptop with a thin, light design, and a wealth of features, including PCIe SSDs and the latest Intel® Core™ processor.",
+            "productImageUrl": "",
+            "productAdded": 5101998,
+            "productQuatity": 8,
+            "ratings": 4.9,
+            "favourite": false,
+            "productSeller": "Dell"
+        },
+        "214509135" : {
+            "productName": "XPS 13",
+            "productCategory": "Laptop",
+            "productPrice": 79490.00,
+            "productDescription": "8th Generation Intel® Core™ i5-8250U Processor (6M Cache, up to 3.4 GHz) \n 8GB LPDDR3 1866MHz \n 256GB PCIe Solid State Drive",
+            "productImageUrl": "",
+            "productAdded": 25081998,
+            "productQuatity": 14,
+            "ratings": 4.7,
+            "favourite": false,
+            "productSeller": "Dell"
+        },
+        "214510044" : {
+            "productName": "Alienware Pro Gaming Keyboard: AW768",
+            "productCategory": "Keyboards/Mouse",
+            "productPrice": 7477.00,
+            "productDescription": "Mechanical gaming keyboard with brown switches, 15 programmable macro key functions and onboard memory. Featuring 13 RGB lighting zones.",
+            "productImageUrl": "",
+            "productAdded": 11031998,
+            "productQuatity": 7,
+            "ratings": 4.8,
+            "favourite": false,
+            "productSeller": "Dell"
+        }
+    }
+}
