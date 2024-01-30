@@ -4,8 +4,8 @@ Cart Conversion rates are quite low for a good majority of eCommerce companies. 
 
 This project was developed as part of the Hack2Hire hackathon by Dell in 2019.
 
-Contributors for this project:
-<a href="https://github.com/Raghuram-Veeramallu">Raghuram-Veeramallu
-<a href="https://github.com/AKhileshPothuri">AKhileshPothuri
-<a href="https://github.com/Rithvik-Reddy">Rithvik-Reddy
+Contributors for this project:  
+[Raghuram-Veeramallu](https://github.com/Raghuram-Veeramallu)    
+[AKhileshPothuri](https://github.com/AKhileshPothuri)  
+[Rithvik-Reddy](https://github.com/Rithvik-Reddy)  
 Ashwin S
